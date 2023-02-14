@@ -96,7 +96,7 @@ class MyLitCard extends LitElement {
         "Good morning, I like coffeeeeee" </p>
       <section class="content">
         <img src="https://thumbor.bigedition.com/husky-good-morning-meme/pH3EqF8t0ug2q1rb8xQUIfy_TIM=/800x739/filters:format(webp):quality(80)/granite-web-prod/48/f0/48f096f394fe421fa43128fa65a1f2a1.jpeg"
-    alt="https://www.workandmoney.com/s/good-morning-memes-19ec5c5d8885431a" width=200px>
+    alt="https://www.workandmoney.com/s/good-morning-memes-19ec5c5d8885431a" width="200px">
         <button id = "detailBtn" class="detailsButton">Detail </button>
     </section>
     </section>
